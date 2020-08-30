@@ -7,7 +7,7 @@
         
         beforeAll(function () {
           browser.waitForAngularEnabled(true);
-            browser.driver.get("http://dev-portal.workwave.io/");
+            browser.driver.get("http://google.com/");
             console.log("URL invoked  ");
            
             browser.driver.manage().window().maximize();
