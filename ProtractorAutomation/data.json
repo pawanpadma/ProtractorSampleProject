@@ -1,0 +1,15 @@
+{
+  "loginPage": {
+    "userName": "ppadma@workwave.com",
+    "password": "Workwave@1",
+    "description": "NodejsConsoleApp3"
+  },
+  "services": {
+    "userName": "ppadma@workwave.com",
+    "password": "Workwave@1",
+    "description": "NodejsConsoleApp3"
+  },
+  "questions": {
+    "retyped-angular-protractor-tsd-ambient": "^1.5.0-0"
+  }
+}
